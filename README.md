@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o João Vitor</h1>
+<h1 align="center">Olá! 👋 Eu sou João Vitor</h1>
 
 <p align="center">
   🚀 Desenvolvedor Full Stack apaixonado por tecnologia e inovação.
