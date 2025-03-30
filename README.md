@@ -4,9 +4,7 @@
   🚀 Desenvolvedor Full Stack apaixonado por tecnologia e inovação.
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joaovitorrios/joaovitorrios/main/animation.svg" alt="Animação">
-</p>
+
 
 ---
 
