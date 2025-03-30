@@ -4,7 +4,9 @@
   🚀 Desenvolvedor Full Stack apaixonado por tecnologia e inovação.
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaovitorrios/joaovitorrios/main/animation.svg" alt="Animação">
+</p>
 
 ---
 
@@ -29,9 +31,9 @@
 ---
 
 ## 🚀 Projetos Destacados
-📌 [**Projeto 1**](#) - Breve descrição do projeto.  
-📌 [**Projeto 2**](#) - Breve descrição do projeto.  
-📌 [**Projeto 3**](#) - Breve descrição do projeto.  
+📌 [**site-creative**](https://github.com/joaovitorrios/site-creative) - Um site corporativo.  
+📌 [**projeto-flicker**](https://github.com/joaovitorrios/projeto-flicker) - Um projeto de rede social.  
+📌 [**gerenciador-gastos**](https://github.com/joaovitorrios/gerenciador-gastos) - Um gerenciador de gastos.  
 
 ---
 
