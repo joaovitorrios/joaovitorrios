@@ -7,13 +7,10 @@
 
 
 ---
-<p align="center">
 ## 🧑‍💻 Sobre Mim
 🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **FCG**.  
 💡 Busco aprimorar minhas habilidades para me tornar um **Desenvolvedor Full Stack**.  
 📌 Apaixonado por resolver problemas e criar soluções eficientes com código.  
-</p>
-
 ---
 
 ## 🛠️ Tecnologias que utilizo
