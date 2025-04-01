@@ -4,13 +4,13 @@
   🚀 Desenvolvedor Full Stack apaixonado por tecnologia e inovação.
 </p>
 
-
-
 ---
-🧑‍💻 Sobre Mim
-🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **FCG**.  
-💡 Busco aprimorar minhas habilidades para me tornar um **Desenvolvedor Full Stack**.  
-📌 Apaixonado por resolver problemas e criar soluções eficientes com código.  
+
+## 🧑‍💻 Sobre Mim
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FCG**.  
+💡 Buscando aprimorar minhas habilidades para me tornar um **Desenvolvedor Full Stack**.  
+📌 Apaixonado por resolver problemas e criar soluções eficientes através da programação.  
+
 ---
 
 ## 🛠️ Tecnologias que utilizo
@@ -27,9 +27,9 @@
 ---
 
 ## 🚀 Projetos Destacados
-📌 [**site-creative**](https://github.com/joaovitorrios/site-creative) - Um site corporativo.  
-📌 [**projeto-flicker**](https://github.com/joaovitorrios/projeto-flicker) - Um projeto de rede social.  
-📌 [**gerenciador-gastos**](https://github.com/joaovitorrios/gerenciador-gastos) - Um gerenciador de gastos.  
+📌 [**Site Creative**](https://github.com/joaovitorrios/site-creative) - Um site corporativo moderno.  
+📌 [**Projeto Flicker**](https://github.com/joaovitorrios/projeto-flicker) - Uma rede social inovadora.  
+📌 [**Gerenciador de Gastos**](https://github.com/joaovitorrios/gerenciador-gastos) - Um aplicativo para controle financeiro pessoal.  
 
 ---
 
