@@ -1,39 +1,49 @@
-<h1 align="center">Olá! 👋 Eu sou João Vitor</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-<p align="center">
-  🚀 Desenvolvedor Full Stack apaixonado por tecnologia e inovação.
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%F0%9F%91%8B;Seja+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
----
+# 🖥️ João Vitor Rios
+## 🚀 Desenvolvedor Full Stack
 
-## 🧑‍💻 Sobre Mim
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FCG**.  
-💡 Buscando aprimorar minhas habilidades para me tornar um **Desenvolvedor Full Stack**.  
-📌 Apaixonado por resolver problemas e criar soluções eficientes através da programação.  
+Olá! Me chamo **João Vitor Rios**, sou da Bahia e estou cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Capim Grosso. Sou apaixonado por tecnologia e busco me tornar um **desenvolvedor Full Stack**.
 
----
+💡 Gosto de desafios e estou sempre aprimorando minhas habilidades para criar soluções inovadoras.
 
-## 🛠️ Tecnologias que utilizo
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
+🔎 Sempre aberto a novas oportunidades na área de tecnologia!
 
 ---
 
-## 🚀 Projetos Destacados
-📌 [**Site Creative**](https://github.com/joaovitorrios/site-creative) - Um site corporativo moderno.  
-📌 [**Projeto Flicker**](https://github.com/joaovitorrios/projeto-flicker) - Uma rede social inovadora.  
-📌 [**Gerenciador de Gastos**](https://github.com/joaovitorrios/gerenciador-gastos) - Um aplicativo para controle financeiro pessoal.  
+## 🌐 Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/joaovitorrios" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" width="45px"/>
+</div>
+
+---
+
+## 📌 Projetos em Destaque
+- [🌐 Site Creative](https://github.com/joaovitorrios/site-creative) - Um site corporativo.
+- [📱 Projeto Flicker](https://github.com/joaovitorrios/projeto-flicker) - Um projeto de rede social.
+- [💰 Gerenciador de Gastos](https://github.com/joaovitorrios/gerenciador-gastos) - Um gerenciador de gastos.
+
+---
+
+## 📊 Estatísticas do GitHub :)
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovitorrios&show_icons=true&theme=radical">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorrios&layout=compact&langs_count=7&theme=radical">
@@ -41,18 +51,20 @@
 
 ---
 
-## 🌎 Onde me encontrar
-<p align="center">
-  <a href="https://www.linkedin.com/in/joaovitorrios/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://joaovitorriosdev.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=react&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/_joaovitorrioss/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+## 🚀 Atividade no GitHub
+[![joaovitorrios github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaovitorrios&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🎯 Visitantes:
+
+<div align="center">
+  <p><b>Contador de Visitantes:</b></p>
+  <p><img align="center" src="https://profile-counter.glitch.me/joaovitorrios/count.svg" /></p>
+</div>
+
+---
+
+⭐ **Se gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios!**
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
