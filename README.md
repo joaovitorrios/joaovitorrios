@@ -9,21 +9,21 @@
 </p>
 
 <h1 align="center">🖥️ João Vitor Rios</h1>
-# 🚀 Desenvolvedor Full Stack
+<h2 align="center">🚀 Desenvolvedor Full Stack</h2>
 
-<p>
+<p align="center">
   Olá! Me chamo <strong>João Vitor Rios</strong>, sou da Bahia e estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Faculdade Capim Grosso.
   Sou apaixonado por tecnologia e busco me tornar um <strong>desenvolvedor Full Stack</strong>.
 </p>
 
-<p>
+<p align="center">
   💡 Gosto de desafios e estou sempre aprimorando minhas habilidades para criar soluções inovadoras.<br>
   🔎 Sempre aberto a novas oportunidades na área de tecnologia!
 </p>
 
 ---
 
-<h2 align="center>🌐 Conecte-se comigo</h2>
+<h2 align="center">🌐 Conecte-se comigo</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
