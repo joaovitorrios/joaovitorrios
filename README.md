@@ -32,6 +32,9 @@ Olá! Me chamo **João Vitor Rios**, sou da Bahia e estou cursando **Análise e 
   <a href="https://github.com/joaovitorrios" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://www.tiktok.com/@_joaovitorriosdev?lang=pt-BR" target="_blank">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
 </p>
 
 ---
