@@ -23,8 +23,11 @@ Olá! Me chamo **João Vitor Rios**, sou da Bahia e estou cursando **Análise e 
 <h2 align="center">🌐 Conecte-se comigo</h2>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/joaovitorrios/)" target="_blank">
+  <a href="https://www.linkedin.com/in/joaovitorrios/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://joaovitorriosdev.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-00C7B7?style=for-the-badge&logo=internet-explorer&logoColor=white">
   </a>
   <a href="https://github.com/joaovitorrios" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
