@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">🖥️ João Vitor Rioss</h1>
+<h1 align="center">🖥️ João Vitor Rios</h1>
 
 ## 🚀 Desenvolvedor Full Stack
 
